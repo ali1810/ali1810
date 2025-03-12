@@ -64,5 +64,5 @@ Leadership, Team Collaboration, Communication, Agile Methodology, Multi-tasking
 * Data visualization Power BI
 
 🌐 Connect with Me
-* LinkedIn: https://www.linkedin.com/in/mushtaq_ali/
+* LinkedIn: https://www.linkedin.com/in/mushtaq-ali/
 * Email: ali10786@gmail.com
