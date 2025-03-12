@@ -24,14 +24,18 @@ Leadership, Team Collaboration, Communication, Agile Methodology, Multi-tasking
 # 💼 Professional Experience
 * Karlsruhe Institute of Technology (KIT) Germany
 
-  Research Scientist(July 2021 – Present)  Research and development projects involving graph neural networks (GNNs), achieving significant improvements in data representation and interpretability. Managed collaborations with cross-functional teams, defining research objectives, optimizing project timelines, and meeting strategic goals.
+  Research Scientist (July 2021 – Present)  Research and development projects involving graph neural networks (GNNs), achieving significant improvements in data representation and 
+  interpretability. Managed collaborations with cross-functional teams, defining research objectives, optimizing project timelines, and meeting strategic goals.
 
 * Ambiguous Solutions Pvt. Ltd. , India
+
   Data Analyst (Dec 2014 – Sept 2018)
 
-  Data Collection and Cleaning: Collected and processed datasets of up to 50,000+ records from diverse sources, ensuring 100% accuracy and consistency through thorough cleaning and preprocessing.
+  Data Collection and Cleaning: Collected and processed datasets of up to 50,000+ records from diverse sources, ensuring 100% accuracy and consistency through thorough cleaning and 
+  preprocessing.
 
 * RSMRS Pvt Ltd , India , India
+  
   Project Manager (July 2011 – Nov 2014)
 
   Project Management: Led the full lifecycle of 10+ research projects across 5+ locations, ensuring on-time delivery and staying within budgets of up to $1M per project.
