@@ -45,7 +45,7 @@ Leadership, Team Collaboration, Communication, Agile Methodology, Multi-tasking
 * MBA fundamental 
   Hector School Karlsruhe (Jul 2023 – June 2024)
 * M.Sc  Big data & Business analytics  
-  SRH Heidelberg  (Jul 2023 – June 2024) 
+  SRH Heidelberg  (Oct 2018 – Sept 2020) 
 * MCA  Masters in Computer application 
   VTU Banagalore 
 * B.Sc Maths  Bachelor in Science 
