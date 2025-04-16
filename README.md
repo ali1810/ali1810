@@ -1,5 +1,5 @@
 # Hi, I am  Ali! 👋
-Data Science Enthusiast | Applied Data Science & Analytics Student | Passionate about ML, AI, Cheminformatics & Bioinformatics 
+Data Science Enthusiast | Computational scientist| Passionate about ML, AI, Cheminformatics & Bioinformatics 
 
 AI engineer with expertise in machine learning, deep learning, NLP, cheminformatics, and spatial omics. Proficient in Python, SQL, data science libraries, and GitHub, with experience in predictive modeling, generative AI, and bioinformatics applications.
 
